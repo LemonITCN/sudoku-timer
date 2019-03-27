@@ -1,0 +1,14 @@
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-panel {
+  position: absolute;
+  margin-top: 100px;
+  width: 800px;
+  height: 600px;
+  border: 1px solid #aaa;
+}
